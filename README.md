@@ -23,15 +23,7 @@ A simple console-based student database application built with **Java (JDBC)** a
      );
      ```
 
-2. **Java Setup**
-   - Clone this repository:
-     ```bash
-     git clone https://github.com/YOUR-USERNAME/student-management.git
-     ```
-   - Open the project in your IDE (e.g., IntelliJ, Eclipse, VS Code with Java).  
-   - Ensure you have the MySQL JDBC driver (Connector/J) added to your classpath.
-
-3. **Run the Program**
+2. **Run the Program**
    - Run the `StudentApp.java` file.
    - You will see the menu:
      ```
@@ -44,7 +36,7 @@ A simple console-based student database application built with **Java (JDBC)** a
 
 ## Assumptions / Notes
 - Database username: `root`
-- Database password: `YOUR_PASSWORD` (update in `DatabaseConnection.java`)
+- Database password: (update in `DatabaseConnection.java`)
 - Program assumes the MySQL server is running locally on port `3306`.
 
 ---
