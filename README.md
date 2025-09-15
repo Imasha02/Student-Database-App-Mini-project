@@ -33,10 +33,3 @@ A simple console-based student database application built with **Java (JDBC)** a
      4. Delete Student
      5. Exit
      ```
-
-## Assumptions / Notes
-- Database username: `root`
-- Database password: (update in `DatabaseConnection.java`)
-- Program assumes the MySQL server is running locally on port `3306`.
-
----
